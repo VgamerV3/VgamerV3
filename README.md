@@ -89,6 +89,13 @@ Some repositories are **serious projects**, others are **experiments or testing 
 
 ---
 
+# ⭐ Featured Project
+
+### Hytale Depot  
+A platform being built for the **Hytale creator ecosystem**, focused on resources, tools, assets, and community content.
+
+---
+
 # 📊 GitHub Stats
 
 <div align="center">
