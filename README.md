@@ -4,7 +4,7 @@
 
 💻 Developer • 🎮 Gamer • 🛠 Builder of cool systems
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=4DA6FF&center=true&vCenter=true&width=600&lines=Developer;Minecraft+Plugins+%26+Mods;Building+Tools+For+Game+Communities;Working+on+Hytale+Depot" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=4DA6FF&center=true&vCenter=true&width=650&lines=Developer;Minecraft+Plugins+%26+Mods;Hytale+Plugins+%26+Mods;Building+Tools+For+Game+Communities;Working+on+Hytale+Depot" />
 
 </div>
 
@@ -43,6 +43,7 @@ The long-term vision is to build something similar to major modding platforms, b
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Minecraft](https://img.shields.io/badge/Minecraft-3C8527?style=for-the-badge&logo=minecraft&logoColor=white)
+![Hytale](https://img.shields.io/badge/Hytale-4DA6FF?style=for-the-badge)
 ![Fabric](https://img.shields.io/badge/Fabric_Modloader-DBD0B4?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -50,7 +51,8 @@ The long-term vision is to build something similar to major modding platforms, b
 Things I often work with:
 
 - **Java / Kotlin**
-- Minecraft **plugins & mods**
+- **Minecraft plugins & Fabric mods**
+- **Hytale plugins & modding systems**
 - **game development tooling**
 - **automation systems**
 - **performance optimization**
@@ -75,7 +77,8 @@ Basically turning **ideas from playing games into actual software**.
 
 # 📦 What You Might Find In My Repositories
 
-- plugin & mod templates
+- Minecraft plugin & mod templates
+- Hytale development tools
 - experimental systems
 - tools for game developers
 - performance experiments
