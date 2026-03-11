@@ -13,7 +13,7 @@ I like creating things that are **clean, efficient, and actually useful** for bo
 
 🌐 https://hytaledepot.net
 
-**Hytale Depot** is a large community platform centered around the upcoming game **Hytale**.
+**Hytale Depot** is a large community platform centered around the game **Hytale**.
 
 The goal of the project is to create a **central hub for creators, developers, and server owners** where they can publish, discover, and share content.
 
