@@ -18,7 +18,7 @@ I like creating things that are **clean, efficient, and actually useful** for bo
 
 ---
 
-# 🚀 Main Project — Hytale Depot
+# 🚀 Main Project -> Hytale Depot
 
 🌐 https://hytaledepot.net
 
